@@ -1,2 +1,2 @@
 # data-narrative
-Implementation of ML algorithms and tools for Data Visualization tools like matplotlib, seaborn , numpy and pandas on two different real life datasets.
+Implementation of ML algorithms and tools for Data Visualization like Matplotlib, Seaborn, Pandas and Numpy on two different real life datasets.
